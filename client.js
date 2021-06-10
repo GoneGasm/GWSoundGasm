@@ -52,7 +52,7 @@ function selfToLink(self){
 
 
 const app = document.getElementById('app'); 
-func(app, hotURL)
+func(app, F4MURL)
 
 
 
